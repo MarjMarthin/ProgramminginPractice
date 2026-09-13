@@ -10,7 +10,7 @@ int main()
  printf("Enter Municipality Name: ");
  scanf("%49s", municipality);
 
- printf("Enter Mayor: ");
+ printf("Enter Mayor Name: ");
  scanf("%49s", mayor);
 
  printf("Enter Population: ");
